@@ -2,33 +2,33 @@
 
 General Info
 
-![GitHub](https://img.shields.io/github/license/KleinChiu/legendary-fiesta)
+![GitHub](https://img.shields.io/github/license/cornersyrup/legendary-fiesta)
 
 Release Info
 
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/KleinChiu/legendary-fiesta?sort=semver)
-[![Deploy to GitHub Pages](https://github.com/KleinChiu/legendary-fiesta/actions/workflows/vite-gh-pages.yml/badge.svg?branch=main)](https://github.com/KleinChiu/legendary-fiesta/actions/workflows/vite-gh-pages.yml)
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fkleinchiu.github.io%2Flegendary-fiesta%2F)
-![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/KleinChiu/legendary-fiesta)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/cornersyrup/legendary-fiesta?sort=semver)
+[![Deploy to GitHub Pages](https://github.com/cornersyrup/legendary-fiesta/actions/workflows/vite-gh-pages.yml/badge.svg?branch=main)](https://github.com/cornersyrup/legendary-fiesta/actions/workflows/vite-gh-pages.yml)
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fcornersyrup.github.io%2Flegendary-fiesta%2F)
+![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/cornersyrup/legendary-fiesta)
 
 Development Info
 
-![GitHub language count](https://img.shields.io/github/languages/count/KleinChiu/legendary-fiesta)
-![GitHub top language](https://img.shields.io/github/languages/top/KleinChiu/legendary-fiesta)
-![GitHub package.json dependency version (subfolder of monorepo)](https://img.shields.io/github/package-json/dependency-version/KleinChiu/legendary-fiesta/vue)
+![GitHub language count](https://img.shields.io/github/languages/count/cornersyrup/legendary-fiesta)
+![GitHub top language](https://img.shields.io/github/languages/top/cornersyrup/legendary-fiesta)
+![GitHub package.json dependency version (subfolder of monorepo)](https://img.shields.io/github/package-json/dependency-version/cornersyrup/legendary-fiesta/vue)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/kleinchiu/legendary-fiesta/badge)](https://www.codefactor.io/repository/github/kleinchiu/legendary-fiesta)
-![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/KleinChiu/legendary-fiesta)
+[![CodeFactor](https://www.codefactor.io/repository/github/cornersyrup/legendary-fiesta/badge)](https://www.codefactor.io/repository/github/cornersyrup/legendary-fiesta)
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/cornersyrup/legendary-fiesta)
 
-Try it out on [GitHub Pages](https://kleinchiu.github.io/legendary-fiesta/)!
+Try it out on [GitHub Pages](https://cornersyrup.github.io/legendary-fiesta/)!
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/kleinchiu/legendary-fiesta)
-[![Open in vscode.dev](https://img.shields.io/badge/-Open%20in%20vscode.dev-007ACC?logo=Visual%20Studio%20Code)](https://vscode.dev/github/kleinchiu/legendary-fiesta)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/cornersyrup/legendary-fiesta)
+[![Open in vscode.dev](https://img.shields.io/badge/-Open%20in%20vscode.dev-007ACC?logo=Visual%20Studio%20Code)](https://vscode.dev/github/cornersyrup/legendary-fiesta)
 
 ## Installation
 
 ```sh
-git clone https://github.com/KleinChiu/legendary-fiesta.git
+git clone https://github.com/cornersyrup/legendary-fiesta.git
 cd legendary-fiesta
 npm install
 ```
